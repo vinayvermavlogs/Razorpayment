@@ -6,4 +6,4 @@ Technology Used- HTML , Tailwind CSS .
 It is also responsive in mobile phones.
 
 provided netlify link :
-https://app.netlify.com/sites/vinayvermarazorpayclone/overview
+[https://app.netlify.com/sites/vinayvermarazorpayclone/overview](https://vinayvermarazorpayclone.netlify.app/)
